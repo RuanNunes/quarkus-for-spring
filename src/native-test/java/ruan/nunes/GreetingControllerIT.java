@@ -1,4 +1,4 @@
-package quarkus.for.spring;
+package ruan.nunes.for.spring;
 
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 

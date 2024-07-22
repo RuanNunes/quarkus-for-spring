@@ -20,7 +20,7 @@ dependencies {
     testImplementation 'io.rest-assured:rest-assured'
 }
 
-group 'quarkus.for.spring'
+group 'ruan.nunes'
 version '1.0.0-SNAPSHOT'
 
 java {
