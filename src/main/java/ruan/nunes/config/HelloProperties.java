@@ -1,4 +1,4 @@
-package ruan.nunes.application;
+package ruan.nunes.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
@@ -6,4 +6,5 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 public class HelloProperties {
 
     public String text;
+    public String name;
 }

@@ -1,7 +1,7 @@
-package ruan.nunes.for.spring;
+package ruan.nunes.web;
 
 import io.quarkus.test.junit.QuarkusIntegrationTest;
-import ruan.nunes.web.GreetingControllerTest;
+import ruan.nunes.GreetingControllerTest;
 
 @QuarkusIntegrationTest
 class GreetingControllerIT extends GreetingControllerTest {

@@ -13,6 +13,7 @@ dependencies {
     implementation 'io.quarkus:quarkus-spring-cache'
     implementation 'io.quarkus:quarkus-spring-scheduled'
     implementation 'io.quarkus:quarkus-spring-web'
+    implementation('io.quarkus:quarkus-smallrye-openapi')
     implementation 'io.quarkus:quarkus-spring-boot-properties'
     implementation 'io.quarkus:quarkus-arc'
     implementation 'io.quarkus:quarkus-rest-jackson'
