@@ -1,4 +1,4 @@
-package ruan.nunes.application;
+package ruan.nunes.web.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

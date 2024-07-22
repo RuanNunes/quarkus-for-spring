@@ -1,4 +1,4 @@
-package ruan.nunes.cache;
+package ruan.nunes.web.cache;
 
 import java.time.LocalDate;
 import java.util.Arrays;
