@@ -1,6 +1,6 @@
 ## A basic GitHub Actions workflow for your Quarkus application.
 
-name: CI build
+name: CI Pipeline
 
 on:
   push:
@@ -18,6 +18,12 @@ jobs:
         with:
           java-version: 21
           distribution: temurin
-          cache: maven
+          cache: gradle
       - name: Build
         run: ./gradlew build
+      - name: Test Coverage
+        run: ./gradlew test
+      - name: Build Native
+        run: ./gradlew build -Dquarkus.package.type=native
+        
+      
