@@ -6,4 +6,5 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 public class HelloProperties {
 
     public String text;
+    public String name;
 }
