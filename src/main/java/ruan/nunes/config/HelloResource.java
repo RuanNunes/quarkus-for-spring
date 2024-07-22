@@ -1,4 +1,4 @@
-package ruan.nunes.web.config;
+package ruan.nunes.config;
 
 import jakarta.inject.Inject;
 import jakarta.ws.rs.GET;

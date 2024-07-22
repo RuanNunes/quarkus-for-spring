@@ -1,4 +1,4 @@
-package ruan.nunes.web.scheduling;
+package ruan.nunes.scheduling;
 import org.springframework.scheduling.annotation.Scheduled;
 
 import java.util.concurrent.atomic.AtomicInteger;

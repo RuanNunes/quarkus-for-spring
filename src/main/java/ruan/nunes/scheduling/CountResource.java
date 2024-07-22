@@ -1,4 +1,4 @@
-package ruan.nunes.web.scheduling;
+package ruan.nunes.scheduling;
 
 import jakarta.inject.Inject;
 import jakarta.ws.rs.GET;

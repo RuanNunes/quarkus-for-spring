@@ -1,4 +1,4 @@
-package ruan.nunes.web;
+package ruan.nunes;
 
 import io.quarkus.test.junit.QuarkusTest;
 import org.junit.jupiter.api.Test;

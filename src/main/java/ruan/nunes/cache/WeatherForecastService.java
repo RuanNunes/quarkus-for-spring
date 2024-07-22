@@ -1,4 +1,4 @@
-package ruan.nunes.web.cache;
+package ruan.nunes.cache;
 import java.time.LocalDate;
 
 import org.springframework.cache.annotation.Cacheable;
